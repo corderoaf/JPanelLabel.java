@@ -1,2 +1,2 @@
 # JPanelLabel.java
-Extend JFrame class. Use JPanel and JButton classe.
+Extend JFrame class. Use JPanel and JButton classes.
