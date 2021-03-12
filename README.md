@@ -1,2 +1,2 @@
 # JPanelLabel.java
-Extend JFrame class. Use JLabel and JCheckBox classes.
+Extend JFrame class. Use JPanel and JButton classe.
